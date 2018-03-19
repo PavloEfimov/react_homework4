@@ -1,0 +1,12 @@
+.About__Nav {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+
+.About__Nav>p>a {
+    text-decoration: none;
+    margin: 0 20px;
+}

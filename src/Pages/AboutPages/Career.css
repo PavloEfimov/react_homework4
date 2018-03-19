@@ -1,0 +1,18 @@
+.CareerInfo {
+    margin-top: 100px;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.Career caption {
+    font-size: 24px;
+}
+
+.Career td {
+    border: 3px solid grey;
+}
+
+.Career ul {
+    list-style: none;
+}
